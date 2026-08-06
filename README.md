@@ -19,7 +19,7 @@ telegram: @Valeriy_89918418740
 https://docs.google.com/document/d/1ZEV71HGsEwvUySZXad9KSb34w8Vw0a9y_Kl9l6Wh5cY/edit?usp=sharing
 
 Электронные сертификаты
-https://docs.google.com/document/d/1X9O202lZog2gHqkmInGJ1lSIvqlPJHWajO9BpxM39jQ/edit?usp=sharing
+https://docs.google.com/document/d/1fq7oAVgskCi7keaXzZxP3z3z9N8r8wNB2pSul3WoX5U/edit?tab=t.0
 
 Навыки
 Знание языков	Русский — Родной
