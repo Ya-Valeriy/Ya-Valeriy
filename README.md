@@ -39,8 +39,8 @@
 
 # Полезные ссылки
 
-- [Дипломы об образовании](https://docs.google.com/document/d/1ZEV71HGsEwvUySZXad9KSb34w8Vw0a9y_Kl9l6Wh5cY/edit?usp=sharing)  
-- [Сертификаты и курсы](https://docs.google.com/document/d/1fq7oAVgskCi7keaXzZxPz3z3z9N8r8wNB2pSul3WoX5U/edit?tab=t.0)  
+- [Дипломы об образовании](https://docs.google.com/document/d/1ZEV71HGsEwvUySZXad9KSb34w8Vw0a9y_Kl9l6Wh5cY/edit?tab=t.0)  
+- [Сертификаты и курсы](https://docs.google.com/document/d/1fq7oAVgskCi7keaXzZxP3z3z9N8r8wNB2pSul3WoX5U/edit?tab=t.0)  
 
 ---
 
