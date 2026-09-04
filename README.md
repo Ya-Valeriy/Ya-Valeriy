@@ -47,7 +47,7 @@
 
 Здесь вы найдёте мои учебные и демонстрационные артефакты, доказывающие навыки ручного тестирования:
 
-1. Artifacts_manual_testing
+1. [manual-testing-portfolio](https://github.com/Ya-Valeriy/manual-testing-portfolio)
 Описание: Артефакты ручного тестирования: тест-кейсы, баг-репорты, SQL-запросы, API-тесты (Postman), анализ требований (User Story, RTM).
 
 2. VELOSKLAD_PYTHON_PLAYWRIGHT_PYTEST_POM
