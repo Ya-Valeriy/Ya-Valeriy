@@ -50,8 +50,8 @@
 1. [manual-testing-portfolio](https://github.com/Ya-Valeriy/manual-testing-portfolio)
 Описание: Артефакты ручного тестирования: тест-кейсы, баг-репорты, SQL-запросы, API-тесты (Postman), анализ требований (User Story, RTM).
 
-2. VELOSKLAD_PYTHON_PLAYWRIGHT_PYTEST_POM
-Описание: Проект автоматизированного тестирования для сайта «Велосклад». Использует Playwright для автоматизации браузеров, pytest как фреймворк тестирования и Allure для генерации отчётов.
+2. [VELOSKLAD_PYTHON_PLAYWRIGHT_PYTEST_POM](https://github.com/Ya-Valeriy/velosklad-playwright-pytest)
+Описание: Проект автоматизированного тестирования для сайта Велосклад. Playwright — фреймворк для автоматизации браузеров pytest — фреймворк для тестирования на Python Allure — инструмент для генерации наглядных отчётов POM (Page Object Model) — архитектурный паттерн для организации кода
 
 3. Velosklad_Selenium_Webdriver
 Описание: Проект тестирования веб-приложения с использованием Python, pytest и Selenium WebDriver. Структура включает Page Object Model для страниц каталога, поиска, товара и корзины.
